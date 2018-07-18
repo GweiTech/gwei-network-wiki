@@ -4,7 +4,7 @@ Changes are automatically rendered as you type.
 * Implements [GitHub Flavored Markdown](https://github.github.com/gfm/)
 * Renders actual, "native" React DOM elements
 * Allows you to escape or skip HTML (try toggling the checkboxes above)
-* If you escape or skip the HTML, no \`dangerouslySetInnerHTML\` is used! Yay!
+* If you escape or skip the HTML, no `dangerouslySetInnerHTML` is used! Yay!
 
 ## HTML block below
 
@@ -14,14 +14,14 @@ Changes are automatically rendered as you type.
 
 ## How about some code?
 
-\`\`\`js
+```js
 var React = require('react');
 var Markdown = require('react-markdown');
 React.render(
   <Markdown source="# Your markdown here" />,
   document.getElementById('content')
 );
-\`\`\`
+```
 
 Pretty neat, eh?
 ## Tables?
