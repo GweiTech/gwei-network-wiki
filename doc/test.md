@@ -1,5 +1,7 @@
 # Live demo
 
+![image](https://raw.githubusercontent.com/GweiTech/gwei-network-wiki/master/images/test/01.svg)
+
 Changes are automatically rendered as you type.
 * Implements [GitHub Flavored Markdown](https://github.github.com/gfm/)
 * Renders actual, "native" React DOM elements
